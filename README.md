@@ -1,47 +1,28 @@
-![header](./images/newmain.jpg)
+> Want to know what I'm currently working on ?\
+> Checkout [@lowlighter's todos](https://github.com/users/lowlighter/projects/9)
+> 
+> *PS: I haven't been very active on [lowlighter/metrics](https://github.com/lowlighter/metrics) recently, but I'm planning to work back on it once I finish [mizu.js](https://mizu.sh), which with [matcha.css](https://matcha.mizu.sh) and [@libs](https://github.com/lowlighter/libs) combined will make it easier to manage !*
+> 
+> *Thanks for your patience and continued support !*
 
-<h2 align='center'> "Think with your hands!" </p>
-<br>
+[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
+[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p">](#)
+[<img align="right" width="390" height="80" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
-<h3 align='center'>:blue_heart: SNS list :blue_heart:</p>
-<p align='center'>
+[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/sponsors.svg">](https://github.com/sponsors/lowlighter)
+[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">](#)
 
- <a href="https://sujeong-jang-creator.github.io/" target="_blank"><img src="https://img.shields.io/badge/My Info (Gitblog)-FF9E0F?style=flat-square&logo=Apache&logoColor=white" width = 180px height = 30px/></a>
-<a href="https://blog.naver.com/gomdorij" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white" width = 80px height = 30px/></a>
-<a href="https://www.facebook.com/gomdorij" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white" width = 120px height = 30px/></a>
-<a href="https://www.instagram.com/diverser_jang" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"  width = 120px height = 30px/></a>
-<a href="https://velog.io/@gomdorij" target="_blank"><img src="https://img.shields.io/badge/Jcry's Dictionary-9999FF?style=flat-square&logo=Vimeo&logoColor=white"  width = 150px height = 30px/></a>
+[<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
-<br>
-<br>
-  
-<details>
-  <summary>:blue_heart:Tech Stack:blue_heart:</summary>
-   <p><p align='center'>
- I'm learning <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> </a>
- <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a><br>
- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> </a>
- <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/BeatifulSoup-59666C?style=flat-square&logo=&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/MySQL DB-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a><br>
- <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Filebeat-005571?style=flat-square&logo=&logoColor=white"/></a>&nbsp;these days!</p>
+[<img align="right" alt="🦑" src="https://github.com/lowlighter/lowlighter/assets/22963968/f03a6539-5f5e-4e29-8cc5-8f2138660440">](#)
 
-I can use <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=/AdobeIllustrator&logoColor=white"/></a> and <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=/AdobePhotoshop&logoColor=white"/></a> : I like to use Illustration to create:smile:</p></details>
 
-<br>
-<br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sujeong-jang-creator&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<sub>These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
 
-![sujeong-jang-creator's github stats](https://github-readme-stats.vercel.app/api?username=sujeong-jang-creator&show_icons=true)
-[![sujeong-jang-creator's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sujeong-jang-creator&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sujeong-jang-creator)
-
-<br> 
+<!-- Grizzco: https://user-images.githubusercontent.com/22963968/190084456-0e077445-abae-4355-8061-5f0830a48d6e.png -->
+<!-- Until that day: https://user-images.githubusercontent.com/22963968/159836902-a7553777-f1e2-49ed-90fc-9721322b3f44.png -->
+<!-- The betrayer: https://user-images.githubusercontent.com/22963968/155458995-e4c24fff-d667-48cd-a1ce-1f66cd233a14.png -->
+<!-- The world ender: https://user-images.githubusercontent.com/22963968/130322172-4e4996cd-eb3d-4013-9fc2-47e573413310.png -->
+<!-- Farewell Miura: https://user-images.githubusercontent.com/22963968/119890439-1ff29f00-bf38-11eb-8515-d0a9c3c8a6b6.png -->
+<!-- First steps with JavaScript: https://user-images.githubusercontent.com/22963968/114021347-e3c48b80-9870-11eb-8bc8-998bf39b4d0d.png -->
