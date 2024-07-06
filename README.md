@@ -1,4 +1,4 @@
-> what I'm currently working on [@My Project](https://github.com/backnback/bitcamp-mystudy/myapp)\
+> what I'm currently working on [@My Project](https://github.com/backnback/bitcamp-mystudy/myapp).
 > 
 > 
 > *PS: I haven't been very active on [lowlighter/metrics](https://github.com/lowlighter/metrics) recently, but I'm planning to work back on it once I finish [mizu.js](https://mizu.sh), which with [matcha.css](https://matcha.mizu.sh) and [@libs](https://github.com/lowlighter/libs) combined will make it easier to manage !*
