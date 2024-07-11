@@ -1,3 +1,13 @@
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
+
+
+
 > I'm currently working on [@My Project](https://github.com/backnback/bitcamp-mystudy/tree/main/myapp).
 > 
 > 
