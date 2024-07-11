@@ -1,5 +1,5 @@
 ```mermaid
-  graph TD;
+  class diagram TD;
       A-->B;
       A-->C;
       B-->D;
