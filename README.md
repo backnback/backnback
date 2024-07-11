@@ -1,16 +1,23 @@
-'''mermaid
+```mermaid
 classDiagram
-    Command <|.. AbstractCommand : implements
-    List <|.. AbstractList : implements
-    AbstractCommand <|-- BoardCommand
-    AbstractCommand <|-- ProjectCommand
-    AbstractCommand <|-- UserCommand
-    Command <|-- HelpCommand
-    AbstractList <|-- ArrayList
-    AbstractList <|-- LinkedList
-    Iterator <|.. ListIterator : implements
-'''
+    class Animal {
+        <<abstract>>
+        + String name
+        + void makeSound()
+    }
+    class Dog {
+        + void makeSound()
+    }
+    class Cat {
+        + void makeSound()
+    }
+    class Bird {
+        + void makeSound()
+    }
 
+    Animal <|-- Dog
+    Animal <|-- Cat
+    Animal <|-- Bird
 
 
 
