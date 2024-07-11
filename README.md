@@ -1,8 +1,4 @@
----
-title: App 19
----
 classDiagram
-		direction TD
     Command <|.. AbstractCommand : implements
     List <|.. AbstractList : implements
     AbstractCommand <|-- BoardCommand
@@ -12,12 +8,10 @@ classDiagram
     AbstractList <|-- ArrayList
     AbstractList <|-- LinkedList
     Iterator <|.. ListIterator : implements
-    
     class Command{
 		    <<interface>>
 				+execute()*
     }
-    
     class AbstractCommand{
     		<<abstract>>
         #String menuTitle
@@ -29,12 +23,10 @@ classDiagram
         -getMenuTitle()
         -isValidateMenu()
     }
-    
     class List{
 		    <<interface>>
 				+execute()*
     }    
-    
     class AbstractList{
     		<<abstract>>
         #String menuTitle
@@ -46,12 +38,10 @@ classDiagram
         -getMenuTitle()
         -isValidateMenu()
     }
-    
     class Iterator{
 		    <<interface>>
 				+execute()*
     }       
-
 namespace Commands {
     class BoardCommand{
         -boardList : List
@@ -94,18 +84,12 @@ namespace Commands {
         +execute()
     }
 }
-
-
-
 namespace Util {
     class LinkedList{
-
     }
     class ArrayList{
-
     }
     class ListIterator{
-
     }
 }
 
