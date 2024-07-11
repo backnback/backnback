@@ -1,5 +1,5 @@
 ```mermaid
-  classdiagram TD;
+  classDiagram
       A-->B;
       A-->C;
       B-->D;
