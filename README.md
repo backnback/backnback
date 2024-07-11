@@ -1,3 +1,117 @@
+---
+title: App 19
+---
+classDiagram
+		direction TD
+    Command <|.. AbstractCommand : implements
+    List <|.. AbstractList : implements
+    AbstractCommand <|-- BoardCommand
+    AbstractCommand <|-- ProjectCommand
+    AbstractCommand <|-- UserCommand
+    Command <|-- HelpCommand
+    AbstractList <|-- ArrayList
+    AbstractList <|-- LinkedList
+    Iterator <|.. ListIterator : implements
+    
+    class Command{
+		    <<interface>>
+				+execute()*
+    }
+    
+    class AbstractCommand{
+    		<<abstract>>
+        #String menuTitle
+        +AbstractCommand()
+        #getMenus()*
+        #processMenu()*
+        +execute()
+        -printMenus()
+        -getMenuTitle()
+        -isValidateMenu()
+    }
+    
+    class List{
+		    <<interface>>
+				+execute()*
+    }    
+    
+    class AbstractList{
+    		<<abstract>>
+        #String menuTitle
+        +AbstractCommand()
+        #getMenus()*
+        #processMenu()*
+        +execute()
+        -printMenus()
+        -getMenuTitle()
+        -isValidateMenu()
+    }
+    
+    class Iterator{
+		    <<interface>>
+				+execute()*
+    }       
+
+namespace Commands {
+    class BoardCommand{
+        -boardList : List
+        -menus : String[]
+        +BoardCommand()
+        #getMenus()
+        #processMenu()
+        -addBoard()
+        -listBoard()
+        -viewBoard()
+        -updateBoard()
+        -deleteBoard()
+    }
+    class ProjectCommand{
+        -projectList : List
+        -userList : List 
+        -menus : String[]
+        #getMenus()
+        #processMenu()
+        -addProject()
+        -listProject()
+        -viewProject()
+        -updateProject()
+        -deleteProject()
+        -addMembers()
+        -deleteMemebers()
+    }
+    class UserCommand{
+        -userList : List
+        -menus : String[]
+        #getMenus()
+        #processMenu()
+        -addUser()
+        -listUser()
+        -viewUser()
+        -updateUser()
+        -deleteUser()
+    }
+    class HelpCommand{
+        +execute()
+    }
+}
+
+
+
+namespace Util {
+    class LinkedList{
+
+    }
+    class ArrayList{
+
+    }
+    class ListIterator{
+
+    }
+}
+
+
+
+
 > I'm currently working on [@My Project](https://github.com/backnback/bitcamp-mystudy/tree/main/myapp).
 > 
 > 
