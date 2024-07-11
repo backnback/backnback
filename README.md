@@ -1,25 +1,3 @@
-```mermaid
-classDiagram
-    class Animal {
-        <<abstract>>
-        + String name
-        + void makeSound()
-    }
-    class Dog {
-        + void makeSound()
-    }
-    class Cat {
-        + void makeSound()
-    }
-    class Bird {
-        + void makeSound()
-    }
-
-    Animal <|-- Dog
-    Animal <|-- Cat
-    Animal <|-- Bird
-
-
 > I'm currently working on [@My Project](https://github.com/backnback/bitcamp-mystudy/tree/main/myapp).
 > 
 > 
