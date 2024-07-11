@@ -18,7 +18,6 @@ classDiagram
     Animal <|-- Dog
     Animal <|-- Cat
     Animal <|-- Bird
-'''
 
 
 > I'm currently working on [@My Project](https://github.com/backnback/bitcamp-mystudy/tree/main/myapp).
