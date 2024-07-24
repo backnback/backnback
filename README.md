@@ -3,7 +3,7 @@
 
 HI
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=backnback&hide=contribs,prs&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=backnback&hide=contribs,prs&show_icons=true&theme=dracula)
 
 
 
