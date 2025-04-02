@@ -2,7 +2,7 @@
 HI, Visit my blog  
 ⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬  
 
-https://backnback.github.io/
+https://www.blog.backnback.site
 
 
 Skills
